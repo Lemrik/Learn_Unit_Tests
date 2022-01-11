@@ -1,0 +1,11 @@
+C:\Users\Lemri\source\repos\MyCalcLib\bin\Debug\net5.0\MyCalcLib.deps.json
+C:\Users\Lemri\source\repos\MyCalcLib\bin\Debug\net5.0\MyCalcLib.dll
+C:\Users\Lemri\source\repos\MyCalcLib\bin\Debug\net5.0\ref\MyCalcLib.dll
+C:\Users\Lemri\source\repos\MyCalcLib\bin\Debug\net5.0\MyCalcLib.pdb
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.AssemblyInfoInputs.cache
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.AssemblyInfo.cs
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.csproj.CoreCompileInputs.cache
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.dll
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\ref\MyCalcLib.dll
+C:\Users\Lemri\source\repos\MyCalcLib\obj\Debug\net5.0\MyCalcLib.pdb
